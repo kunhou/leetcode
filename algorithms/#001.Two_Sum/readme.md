@@ -1,4 +1,4 @@
-## 001.Two_Sum (Medium) 
+## 001.Two_Sum (Easy) 
 
 source: https://leetcode.com/problems/two-sum/
 
