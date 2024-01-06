@@ -34,7 +34,7 @@ func Test_search(t *testing.T) {
 				[]int{2},
 				2,
 			},
-			1,
+			0,
 		},
 	}
 	for _, tt := range tests {
